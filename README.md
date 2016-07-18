@@ -38,3 +38,7 @@ You are supposed to write 10 functions that accept parameters. You can use contr
 #### Deliverable
 
 You are expected to create one Java file with 10 functions and run them testing all cases.
+
+## Licensing
+1. All content is licensed under a CC­BY­NC­SA 4.0 license.
+2. All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
